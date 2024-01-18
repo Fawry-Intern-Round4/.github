@@ -1,2 +1,2 @@
-# E-Commerce Fawry Project
+# Fawry E-Commerce Project
 

@@ -123,26 +123,26 @@ Access your APIs via `http://localhost:8080`.
 
 
 ## Microservice Details 
-### 1. [API Gateway](./API-Gateway)
+### 1. [API Gateway](https://github.com/Fawry-Intern-Round4/API-Gateway)
 - **Description**: Routes requests to other services, handles authentication, and provides centralized entry.
 
-### 2. [User API](./User-Api)
+### 2. [User API](https://github.com/Fawry-Intern-Round4/User-Api)
 - **Description**: Manages user operations (e.g., registration, login, profile).
 
-### 3. [Order API](./Order-API)
+### 3. [Order API](https://github.com/Fawry-Intern-Round4/Order-API)
 - **Description**: Handles order creation, updates, and retrieval.
 
-### 4. [Product API](./Product-Api)
+### 4. [Product API](https://github.com/Fawry-Intern-Round4/Product-Api)
 - **Description**: Provides CRUD operations for products and inventory.
 
-### 5. [Store API](./Store-Api)
+### 5. [Store API](https://github.com/Fawry-Intern-Round4/Store-Api)
 - **Description**: Manages store data and related operations.
 
-### 6. [Coupon API](./Coupon-API)
+### 6. [Coupon API](https://github.com/Fawry-Intern-Round4/Coupon-API)
 - **Description**: Creates and manages discount coupons.
 
-### 7. [Notification API](./Notfication-API)
+### 7. [Notification API](https://github.com/Fawry-Intern-Round4/Notfication-API)
 - **Description**: Sends notifications (e.g., email, SMS).
 
-### 8. [Angular Frontend (Front-End)](./Front-End)
+### 8. [Angular Frontend (Front-End)](https://github.com/Fawry-Intern-Round4/Front-End)
 - **Description**: Web interface for interacting with the microservices.
